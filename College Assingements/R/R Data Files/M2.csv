@@ -1,0 +1,346 @@
+P_SEQ,M_SEQ,M_NAME,A_SEQ,A_NAME,A_UNIT,Price,P_YEAR_MONTH,M_TYPE_CODE,M_TYPE_NAME,M_GU_CODE,City
+319572,199,SC,305,Apple-Fuji,1,2.17,12-Jul,1,Local Mart,140000,JG
+319573,199,SC,306,Pear,1,2.61,12-Jul,1,Local Mart,140000,JG
+319574,199,SC,307,Chiness cabbage,1,4.35,12-Jul,1,Local Mart,140000,JG
+319575,199,SC,308,Radish,1,1.30,12-Jul,1,Local Mart,140000,JG
+319576,199,SC,309,Onions,6 lbs,1.74,12-Jul,1,Local Mart,140000,JG
+319577,199,SC,23,Lettuce,3.5 Ounce,1.04,12-Jul,1,Local Mart,140000,JG
+319578,199,SC,311,Cucumber,1,0.87,12-Jul,1,Local Mart,140000,JG
+319580,199,SC,58,Beef - Sirloin,1.3 lbs,19.13,12-Jul,1,Local Mart,140000,JG
+319581,199,SC,202,Pork,1,12.61,12-Jul,1,Local Mart,140000,JG
+319582,199,SC,283,Chicken,1,4.78,12-Jul,1,Local Mart,140000,JG
+319583,199,SC,181,Egg,12,1.61,12-Jul,1,Local Mart,140000,JG
+319584,199,SC,144,Yellow corbina,1,1.57,12-Jul,1,Local Mart,140000,JG
+319585,199,SC,152,Pollack,1,4.35,12-Jul,1,Local Mart,140000,JG
+319586,199,SC,256,Mussel,1 box,2.61,12-Jul,1,Local Mart,140000,JG
+319587,199,SC,268,Cod,1,4.35,12-Jul,1,Local Mart,140000,JG
+319748,60,Emart,305,Apple-Fuji,1,2.61,12-Jul,2,Grocery Store,140000,JG
+319749,60,Emart,306,Pear,1,2.35,12-Jul,2,Grocery Store,140000,JG
+319750,60,Emart,307,Chiness cabbage,1,2.07,12-Jul,2,Grocery Store,140000,JG
+319751,60,Emart,308,Radish,1,1.37,12-Jul,2,Grocery Store,140000,JG
+319752,60,Emart,309,Onions,7 lbs,1.90,12-Jul,2,Grocery Store,140000,JG
+319753,60,Emart,310,Lettuce,3.5 Ounce,0.70,12-Jul,2,Grocery Store,140000,JG
+319754,60,Emart,311,Cucumber,1,0.34,12-Jul,2,Grocery Store,140000,JG
+319756,60,Emart,58,Beef - Sirloin,1.3 lbs,17.74,12-Jul,2,Grocery Store,140000,JG
+319757,60,Emart,202,Pork,1,9.65,12-Jul,2,Grocery Store,140000,JG
+319758,60,Emart,283,Chicken,1,6.78,12-Jul,2,Grocery Store,140000,JG
+319759,60,Emart,134,Egg,12,3.74,12-Jul,2,Grocery Store,140000,JG
+319760,60,Emart,144,Yellow corbina,1,1.11,12-Jul,2,Grocery Store,140000,JG
+319761,60,Emart,152,Pollack,1,0.00,12-Jul,2,Grocery Store,140000,JG
+319762,60,Emart,254,Mussel,1 box,1.72,12-Jul,2,Grocery Store,140000,JG
+319763,60,Emart,266,Cod,1,3.46,12-Jul,2,Grocery Store,140000,JG
+321251,136,Save Mart,305,Apple-Fuji,1,3.46,12-Jul,2,Grocery Store,620000,KW
+321252,136,Save Mart,306,Pear,1,2.60,12-Jul,2,Grocery Store,620000,KW
+321253,136,Save Mart,307,Chiness cabbage,1,1.73,12-Jul,2,Grocery Store,620000,KW
+321254,136,Save Mart,308,Radish,1,1.30,12-Jul,2,Grocery Store,620000,KW
+321255,136,Save Mart,309,Onions,8 lbs,2.00,12-Jul,2,Grocery Store,620000,KW
+321256,136,Save Mart,310,Lettuce,3.5 Ounce,0.70,12-Jul,2,Grocery Store,620000,KW
+321257,136,Save Mart,311,Cucumber,1,0.57,12-Jul,2,Grocery Store,620000,KW
+321258,136,Save Mart,312,squash,1,1.30,12-Jul,2,Grocery Store,620000,KW
+321259,136,Save Mart,58,Beef - Sirloin,1.3 lbs,17.11,12-Jul,2,Grocery Store,620000,KW
+321260,136,Save Mart,99,Pork,1,12.43,12-Jul,2,Grocery Store,620000,KW
+321261,136,Save Mart,283,Chicken,1,6.52,12-Jul,2,Grocery Store,620000,KW
+321262,136,Save Mart,17,Egg,12,2.26,12-Jul,2,Grocery Store,620000,KW
+321263,136,Save Mart,136,Yellow corbina,1,0.87,12-Jul,2,Grocery Store,620000,KW
+321264,136,Save Mart,152,Pollack,1,2.61,12-Jul,2,Grocery Store,620000,KW
+321265,136,Save Mart,254,Mussel,1 box,1.96,12-Jul,2,Grocery Store,620000,KW
+321266,136,Save Mart,266,Cod,1,4.35,12-Jul,2,Grocery Store,620000,KW
+321555,98,Lotte,305,Apple-Fuji,1,4.30,12-Jul,2,Grocery Store,350000,NW
+321556,98,Lotte,306,Pear,1,5.22,12-Jul,2,Grocery Store,350000,NW
+321557,98,Lotte,307,Chiness cabbage,1,0.00,12-Jul,2,Grocery Store,350000,NW
+321558,98,Lotte,308,Radish,1,1.72,12-Jul,2,Grocery Store,350000,NW
+321559,98,Lotte,309,Onions,9 lbs,2.17,12-Jul,2,Grocery Store,350000,NW
+321560,98,Lotte,23,Lettuce,3.5 Ounce,1.57,12-Jul,2,Grocery Store,350000,NW
+321561,98,Lotte,311,Cucumber,1,0.56,12-Jul,2,Grocery Store,350000,NW
+321562,98,Lotte,312,squash,1,1.11,12-Jul,2,Grocery Store,350000,NW
+321563,98,Lotte,58,Beef - Sirloin,1.3 lbs,28.70,12-Jul,2,Grocery Store,350000,NW
+321564,98,Lotte,99,Pork,1,17.22,12-Jul,2,Grocery Store,350000,NW
+321565,98,Lotte,283,Chicken,1,7.91,12-Jul,2,Grocery Store,350000,NW
+321566,98,Lotte,134,Egg,12,2.48,12-Jul,2,Grocery Store,350000,NW
+321567,98,Lotte,136,Yellow corbina,1,1.74,12-Jul,2,Grocery Store,350000,NW
+321568,98,Lotte,265,Pollack,1,0.00,12-Jul,2,Grocery Store,350000,NW
+321569,98,Lotte,254,Mussel,1 box,2.83,12-Jul,2,Grocery Store,350000,NW
+321570,98,Lotte,266,Cod,1,5.65,12-Jul,2,Grocery Store,350000,NW
+321587,86,Home Plus,279,Apple-Fuji,1,2.78,12-Jul,2,Grocery Store,230000,DD
+321588,86,Home Plus,306,Pear,1,3.71,12-Jul,2,Grocery Store,230000,DD
+321589,86,Home Plus,307,Chiness cabbage,1,1.73,12-Jul,2,Grocery Store,230000,DD
+321590,86,Home Plus,308,Radish,1,1.44,12-Jul,2,Grocery Store,230000,DD
+321591,86,Home Plus,24,Onions,3 lbs,1.77,12-Jul,2,Grocery Store,230000,DD
+321592,86,Home Plus,310,Lettuce,3.5 Ounce,0.66,12-Jul,2,Grocery Store,230000,DD
+321593,86,Home Plus,311,Cucumber,1,0.33,12-Jul,2,Grocery Store,230000,DD
+321594,86,Home Plus,312,squash,1,0.53,12-Jul,2,Grocery Store,230000,DD
+321595,86,Home Plus,58,Beef - Sirloin,1.3 lbs,18.68,12-Jul,2,Grocery Store,230000,DD
+321596,86,Home Plus,202,Pork,1,16.59,12-Jul,2,Grocery Store,230000,DD
+321597,86,Home Plus,283,Chicken,1,7.81,12-Jul,2,Grocery Store,230000,DD
+321598,86,Home Plus,134,Egg,12,3.37,12-Jul,2,Grocery Store,230000,DD
+321599,86,Home Plus,136,Yellow corbina,1,4.33,12-Jul,2,Grocery Store,230000,DD
+321600,86,Home Plus,264,Pollack,1,1.55,12-Jul,2,Grocery Store,230000,DD
+321601,86,Home Plus,254,Mussel,1 box,2.16,12-Jul,2,Grocery Store,230000,DD
+321602,86,Home Plus,266,Cod,1,5.20,12-Jul,2,Grocery Store,230000,DD
+321603,72,K2,305,Apple-Fuji,1,2.61,12-Jul,1,Local Mart,200000,SD
+321604,72,K3,306,Pear,1,0.00,12-Jul,1,Local Mart,200000,SD
+321605,72,K4,25,Radish,1,1.13,12-Jul,1,Local Mart,200000,SD
+321606,72,K5,307,Chiness cabbage,1,1.74,12-Jul,1,Local Mart,200000,SD
+321607,72,K6,310,Lettuce,3.5 Ounce,0.57,12-Jul,1,Local Mart,200000,SD
+321608,72,K7,24,Onions,4 lbs,1.74,12-Jul,1,Local Mart,200000,SD
+321609,72,K8,311,Cucumber,1,0.29,12-Jul,1,Local Mart,200000,SD
+321610,72,K9,312,squash,1,0.61,12-Jul,1,Local Mart,200000,SD
+321611,72,K10,52,Pork,1,14.09,12-Jul,1,Local Mart,200000,SD
+321612,72,K11,58,Beef - Sirloin,1.3 lbs,17.39,12-Jul,1,Local Mart,200000,SD
+321613,72,K12,283,Chicken,1,5.22,12-Jul,1,Local Mart,200000,SD
+321614,72,K13,134,Egg,12,1.57,12-Jul,1,Local Mart,200000,SD
+321615,72,K14,136,Yellow corbina,1,1.74,12-Jul,1,Local Mart,200000,SD
+321616,72,K15,315,Pollack,1,0.00,12-Jul,1,Local Mart,200000,SD
+321617,72,K16,256,Mussel,1 box,2.17,12-Jul,1,Local Mart,200000,SD
+321618,72,K17,316,Cod,1,0.87,12-Jul,1,Local Mart,200000,SD
+321683,45,Lotte Kangnam,305,Apple-Fuji,1,5.48,12-Jul,2,Grocery Store,680000,KN
+321684,45,Lotte Kangnam,276,Pear,1,9.13,12-Jul,2,Grocery Store,680000,KN
+321685,45,Lotte Kangnam,26,Chiness cabbage,1,0.00,12-Jul,2,Grocery Store,680000,KN
+321686,45,Lotte Kangnam,25,Radish,1,1.90,12-Jul,2,Grocery Store,680000,KN
+321687,45,Lotte Kangnam,24,Onions,5 lbs,4.33,12-Jul,2,Grocery Store,680000,KN
+321688,45,Lotte Kangnam,23,Lettuce,3.5 Ounce,2.48,12-Jul,2,Grocery Store,680000,KN
+321689,45,Lotte Kangnam,22,Cucumber,1,0.52,12-Jul,2,Grocery Store,680000,KN
+321690,45,Lotte Kangnam,312,squash,1,1.30,12-Jul,2,Grocery Store,680000,KN
+321691,45,Lotte Kangnam,58,Beef - Sirloin,1.3 lbs,15.55,12-Jul,2,Grocery Store,680000,KN
+321692,45,Lotte Kangnam,99,Pork,1,22.38,12-Jul,2,Grocery Store,680000,KN
+321693,45,Lotte Kangnam,283,Chicken,1,13.74,12-Jul,2,Grocery Store,680000,KN
+321694,45,Lotte Kangnam,181,Egg,12,2.61,12-Jul,2,Grocery Store,680000,KN
+321695,45,Lotte Kangnam,260,Yellow corbina,1,6.96,12-Jul,2,Grocery Store,680000,KN
+321696,45,Lotte Kangnam,288,Frozen pollack,1,0.00,12-Jul,2,Grocery Store,680000,KN
+321697,45,Lotte Kangnam,266,Cod,1,5.91,12-Jul,2,Grocery Store,680000,KN
+321698,45,Lotte Kangnam,256,Mussel,1 box,2.96,12-Jul,2,Grocery Store,680000,KN
+321699,216,Doggok,28,Apple,1,1.74,12-Jul,1,Local Mart,680000,KN
+321700,216,Doggok,276,Pear,1,2.43,12-Jul,1,Local Mart,680000,KN
+321701,216,Doggok,26,Chiness cabbage,1,2.84,12-Jul,1,Local Mart,680000,KN
+321702,216,Doggok,308,Radish,1,2.16,12-Jul,1,Local Mart,680000,KN
+321703,216,Doggok,272,Onions,21 lbs,2.33,12-Jul,1,Local Mart,680000,KN
+321704,216,Doggok,310,Lettuce,3.5 Ounce,0.68,12-Jul,1,Local Mart,680000,KN
+321705,216,Doggok,311,Cucumber,1,0.64,12-Jul,1,Local Mart,680000,KN
+321706,216,Doggok,312,squash,1,0.85,12-Jul,1,Local Mart,680000,KN
+321707,216,Doggok,58,Beef - Sirloin,1.3 lbs,17.22,12-Jul,1,Local Mart,680000,KN
+321708,216,Doggok,99,Pork,1,12.07,12-Jul,1,Local Mart,680000,KN
+321709,216,Doggok,283,Chicken,1,5.13,12-Jul,1,Local Mart,680000,KN
+321710,216,Doggok,134,Egg,12,2.57,12-Jul,1,Local Mart,680000,KN
+321711,216,Doggok,136,Yellow corbina,1,0.86,12-Jul,1,Local Mart,680000,KN
+321712,216,Doggok,288,Frozen pollack,1,4.26,12-Jul,1,Local Mart,680000,KN
+321713,216,Doggok,266,Cod,1,4.35,12-Jul,1,Local Mart,680000,KN
+321714,216,Doggok,254,Mussel,1 box,3.04,12-Jul,1,Local Mart,680000,KN
+322051,90,Woorim,305,Apple-Fuji,1,1.74,12-Jul,1,Local Mart,260000,JR
+322052,90,Woorim,306,Pear,1,2.17,12-Jul,1,Local Mart,260000,JR
+322053,90,Woorim,307,Chiness cabbage,1,2.61,12-Jul,1,Local Mart,260000,JR
+322054,90,Woorim,308,Radish,1,1.30,12-Jul,1,Local Mart,260000,JR
+322055,90,Woorim,309,Onions,10 lbs,1.30,12-Jul,1,Local Mart,260000,JR
+322056,90,Woorim,23,Lettuce,3.5 Ounce,0.43,12-Jul,1,Local Mart,260000,JR
+322057,90,Woorim,311,Cucumber,1,0.17,12-Jul,1,Local Mart,260000,JR
+322058,90,Woorim,312,squash,1,0.29,12-Jul,1,Local Mart,260000,JR
+322059,90,Woorim,58,Beef - Sirloin,1.3 lbs,16.09,12-Jul,1,Local Mart,260000,JR
+322060,90,Woorim,99,Pork,1,8.52,12-Jul,1,Local Mart,260000,JR
+322061,90,Woorim,283,Chicken,1,5.13,12-Jul,1,Local Mart,260000,JR
+322062,90,Woorim,181,Egg,12,1.57,12-Jul,1,Local Mart,260000,JR
+322063,90,Woorim,136,Yellow corbina,1,1.09,12-Jul,1,Local Mart,260000,JR
+322064,90,Woorim,264,Pollack,1,1.74,12-Jul,1,Local Mart,260000,JR
+322065,90,Woorim,254,Mussel,1 box,2.17,12-Jul,1,Local Mart,260000,JR
+322066,90,Woorim,266,Cod,1,3.04,12-Jul,1,Local Mart,260000,JR
+322115,134,S,305,Apple-Fuji,1,3.48,12-Jul,1,Local Mart,620000,KW
+322116,134,S,306,Pear,1,4.35,12-Jul,1,Local Mart,620000,KW
+322117,134,S,307,Chiness cabbage,1,2.03,12-Jul,1,Local Mart,620000,KW
+322118,134,S,308,Radish,1,1.30,12-Jul,1,Local Mart,620000,KW
+322119,134,S,272,Onions,22 lbs,2.61,12-Jul,1,Local Mart,620000,KW
+322120,134,S,310,Lettuce,3.5 Ounce,0.65,12-Jul,1,Local Mart,620000,KW
+322121,134,S,311,Cucumber,1,0.29,12-Jul,1,Local Mart,620000,KW
+322122,134,S,312,squash,1,0.58,12-Jul,1,Local Mart,620000,KW
+322123,134,S,82,Beef - Sirloin,1.3 lbs,17.39,12-Jul,1,Local Mart,620000,KW
+322124,134,S,52,Pork,1,12.17,12-Jul,1,Local Mart,620000,KW
+322125,134,S,18,Chicken,1,5.65,12-Jul,1,Local Mart,620000,KW
+322126,134,S,134,Egg,12,2.17,12-Jul,1,Local Mart,620000,KW
+322127,134,S,260,Yellow corbina,1,3.48,12-Jul,1,Local Mart,620000,KW
+322128,134,S,152,Pollack,1,3.48,12-Jul,1,Local Mart,620000,KW
+322129,134,S,256,Mussel,1 box,2.17,12-Jul,1,Local Mart,620000,KW
+322130,134,S,268,Cod,1,1.45,12-Jul,1,Local Mart,620000,KW
+322163,215,Chung,28,Apple,1,2.35,12-Jul,1,Local Mart,680000,KN
+322164,215,Chung,276,Pear,1,4.03,12-Jul,1,Local Mart,680000,KN
+322165,215,Chung,26,Chiness cabbage,1,3.30,12-Jul,1,Local Mart,680000,KN
+322166,215,Chung,308,Radish,1,3.03,12-Jul,1,Local Mart,680000,KN
+322167,215,Chung,272,Onions,23 lbs,2.94,12-Jul,1,Local Mart,680000,KN
+322168,215,Chung,23,Lettuce,3.5 Ounce,1.12,12-Jul,1,Local Mart,680000,KN
+322169,215,Chung,311,Cucumber,1,0.57,12-Jul,1,Local Mart,680000,KN
+322170,215,Chung,312,squash,1,1.03,12-Jul,1,Local Mart,680000,KN
+322171,215,Chung,58,Beef - Sirloin,1.3 lbs,20.24,12-Jul,1,Local Mart,680000,KN
+322172,215,Chung,99,Pork,1,12.94,12-Jul,1,Local Mart,680000,KN
+322173,215,Chung,18,Chicken,1,5.37,12-Jul,1,Local Mart,680000,KN
+322174,215,Chung,134,Egg,12,2.59,12-Jul,1,Local Mart,680000,KN
+322175,215,Chung,136,Yellow corbina,1,8.65,12-Jul,1,Local Mart,680000,KN
+322176,215,Chung,152,Pollack,1,3.91,12-Jul,1,Local Mart,680000,KN
+322177,215,Chung,54,Mussel,1 box,2.17,12-Jul,1,Local Mart,680000,KN
+322178,215,Chung,266,Cod,1,4.35,12-Jul,1,Local Mart,680000,KN
+322323,44,Emart Y,28,Apple,1,2.15,12-Jul,2,Grocery Store,680000,KN
+322324,44,Emart Y,170,Pear,1,2.78,12-Jul,2,Grocery Store,680000,KN
+322325,44,Emart Y,26,Chiness cabbage,1,2.07,12-Jul,2,Grocery Store,680000,KN
+322326,44,Emart Y,25,Radish,1,1.63,12-Jul,2,Grocery Store,680000,KN
+322327,44,Emart Y,272,Onions,24 lbs,3.72,12-Jul,2,Grocery Store,680000,KN
+322328,44,Emart Y,23,Lettuce,3.5 Ounce,1.63,12-Jul,2,Grocery Store,680000,KN
+322329,44,Emart Y,22,Cucumber,1,0.48,12-Jul,2,Grocery Store,680000,KN
+322330,44,Emart Y,312,squash,1,0.79,12-Jul,2,Grocery Store,680000,KN
+322331,44,Emart Y,58,Beef - Sirloin,1.3 lbs,23.48,12-Jul,2,Grocery Store,680000,KN
+322332,44,Emart Y,52,Pork,1,10.17,12-Jul,2,Grocery Store,680000,KN
+322333,44,Emart Y,283,Chicken,1,8.52,12-Jul,2,Grocery Store,680000,KN
+322334,44,Emart Y,17,Egg,12,2.59,12-Jul,2,Grocery Store,680000,KN
+322335,44,Emart Y,136,Yellow corbina,1,1.01,12-Jul,2,Grocery Store,680000,KN
+322336,44,Emart Y,288,Frozen pollack,1,1.72,12-Jul,2,Grocery Store,680000,KN
+322337,44,Emart Y,266,Cod,1,6.07,12-Jul,2,Grocery Store,680000,KN
+322338,44,Emart Y,254,Mussel,1 box,1.98,12-Jul,2,Grocery Store,680000,KN
+322355,91,Dow,305,Apple-Fuji,1,1.74,12-Jul,1,Local Mart,260000,JR
+322356,91,Dow,306,Pear,1,2.61,12-Jul,1,Local Mart,260000,JR
+322357,91,Dow,307,Chiness cabbage,1,2.61,12-Jul,1,Local Mart,260000,JR
+322358,91,Dow,308,Radish,1,1.30,12-Jul,1,Local Mart,260000,JR
+322359,91,Dow,309,Onions,11 lbs,1.57,12-Jul,1,Local Mart,260000,JR
+322360,91,Dow,310,Lettuce,3.5 Ounce,0.43,12-Jul,1,Local Mart,260000,JR
+322361,91,Dow,311,Cucumber,1,0.17,12-Jul,1,Local Mart,260000,JR
+322362,91,Dow,312,squash,1,0.43,12-Jul,1,Local Mart,260000,JR
+322363,91,Dow,58,Beef - Sirloin,1.3 lbs,17.22,12-Jul,1,Local Mart,260000,JR
+322364,91,Dow,202,Pork,1,9.39,12-Jul,1,Local Mart,260000,JR
+322365,91,Dow,283,Chicken,1,5.04,12-Jul,1,Local Mart,260000,JR
+322366,91,Dow,181,Egg,12,1.68,12-Jul,1,Local Mart,260000,JR
+322367,91,Dow,136,Yellow corbina,1,1.24,12-Jul,1,Local Mart,260000,JR
+322368,91,Dow,264,Pollack,1,1.74,12-Jul,1,Local Mart,260000,JR
+322369,91,Dow,254,Mussel,1 box,2.61,12-Jul,1,Local Mart,260000,JR
+322370,91,Dow,266,Cod,1,2.61,12-Jul,1,Local Mart,260000,JR
+322579,133,Won,305,Apple-Fuji,1,2.90,12-Jul,1,Local Mart,620000,KW
+322580,133,Won,306,Pear,1,3.04,12-Jul,1,Local Mart,620000,KW
+322581,133,Won,307,Chiness cabbage,1,3.48,12-Jul,1,Local Mart,620000,KW
+322582,133,Won,308,Radish,1,1.74,12-Jul,1,Local Mart,620000,KW
+322583,133,Won,309,Onions,12 lbs,2.61,12-Jul,1,Local Mart,620000,KW
+322584,133,Won,310,Lettuce,3.5 Ounce,0.87,12-Jul,1,Local Mart,620000,KW
+322585,133,Won,311,Cucumber,1,0.35,12-Jul,1,Local Mart,620000,KW
+322586,133,Won,312,squash,1,0.87,12-Jul,1,Local Mart,620000,KW
+322587,133,Won,58,Beef - Sirloin,1.3 lbs,20.87,12-Jul,1,Local Mart,620000,KW
+322588,133,Won,99,Pork,1,12.00,12-Jul,1,Local Mart,620000,KW
+322589,133,Won,283,Chicken,1,5.22,12-Jul,1,Local Mart,620000,KW
+322590,133,Won,17,Egg,12,2.17,12-Jul,1,Local Mart,620000,KW
+322591,133,Won,136,Yellow corbina,1,0.87,12-Jul,1,Local Mart,620000,KW
+322592,133,Won,152,Pollack,1,0.00,12-Jul,1,Local Mart,620000,KW
+322593,133,Won,256,Mussel,1 box,2.17,12-Jul,1,Local Mart,620000,KW
+322594,133,Won,268,Cod,1,2.61,12-Jul,1,Local Mart,620000,KW
+322595,147,Lotte J,305,Apple-Fuji,1,4.89,12-Jul,2,Grocery Store,710000,SP
+322596,147,Lotte J,306,Pear,1,5.62,12-Jul,2,Grocery Store,710000,SP
+322597,147,Lotte J,26,Chiness cabbage,1,3.04,12-Jul,2,Grocery Store,710000,SP
+322598,147,Lotte J,133,Radish,1,2.17,12-Jul,2,Grocery Store,710000,SP
+322599,147,Lotte J,309,Onions,13 lbs,4.85,12-Jul,2,Grocery Store,710000,SP
+322600,147,Lotte J,310,Lettuce,3.5 Ounce,1.57,12-Jul,2,Grocery Store,710000,SP
+322601,147,Lotte J,311,Cucumber,1,0.86,12-Jul,2,Grocery Store,710000,SP
+322602,147,Lotte J,312,squash,1,1.72,12-Jul,2,Grocery Store,710000,SP
+322603,147,Lotte J,58,Beef - Sirloin,1.3 lbs,33.91,12-Jul,2,Grocery Store,710000,SP
+322604,147,Lotte J,202,Pork,1,19.83,12-Jul,2,Grocery Store,710000,SP
+322605,147,Lotte J,283,Chicken,1,8.61,12-Jul,2,Grocery Store,710000,SP
+322606,147,Lotte J,134,Egg,12,2.96,12-Jul,2,Grocery Store,710000,SP
+322608,147,Lotte J,302,Pollack,1,0.00,12-Jul,2,Grocery Store,710000,SP
+322609,147,Lotte J,254,Mussel,1 box,1.88,12-Jul,2,Grocery Store,710000,SP
+322610,147,Lotte J,266,Cod,1,6.96,12-Jul,2,Grocery Store,710000,SP
+322611,148,Homeplus J,305,Apple-Fuji,1,2.78,12-Jul,2,Grocery Store,710000,SP
+322612,148,Homeplus J,306,Pear,1,3.71,12-Jul,2,Grocery Store,710000,SP
+322613,148,Homeplus J,307,Chiness cabbage,1,1.73,12-Jul,2,Grocery Store,710000,SP
+322614,148,Homeplus J,25,Radish,1,1.44,12-Jul,2,Grocery Store,710000,SP
+322615,148,Homeplus J,309,Onions,14 lbs,2.85,12-Jul,2,Grocery Store,710000,SP
+322616,148,Homeplus J,310,Lettuce,3.5 Ounce,0.87,12-Jul,2,Grocery Store,710000,SP
+322617,148,Homeplus J,311,Cucumber,1,0.33,12-Jul,2,Grocery Store,710000,SP
+322619,148,Homeplus J,58,Beef - Sirloin,1.3 lbs,20.77,12-Jul,2,Grocery Store,710000,SP
+322620,148,Homeplus J,99,Pork,1,13.98,12-Jul,2,Grocery Store,710000,SP
+322621,148,Homeplus J,283,Chicken,1,5.03,12-Jul,2,Grocery Store,710000,SP
+322622,148,Homeplus J,171,Egg,12,1.74,12-Jul,2,Grocery Store,710000,SP
+322623,148,Homeplus J,259,Yellow corbina,1,1.11,12-Jul,2,Grocery Store,710000,SP
+322624,148,Homeplus J,152,Pollack,1,1.98,12-Jul,2,Grocery Store,710000,SP
+322625,148,Homeplus J,254,Mussel,1 box,2.42,12-Jul,2,Grocery Store,710000,SP
+322626,148,Homeplus J,266,Cod,1,2.52,12-Jul,2,Grocery Store,710000,SP
+322851,100,Homeplus Ju,305,Apple-Fuji,1,2.78,12-Jul,2,Grocery Store,350000,NW
+322852,100,Homeplus Ju,306,Pear,1,3.70,12-Jul,2,Grocery Store,350000,NW
+322853,100,Homeplus Ju,307,Chiness cabbage,1,0.00,12-Jul,2,Grocery Store,350000,NW
+322854,100,Homeplus Ju,308,Radish,1,1.21,12-Jul,2,Grocery Store,350000,NW
+322855,100,Homeplus Ju,309,Onions,15 lbs,1.98,12-Jul,2,Grocery Store,350000,NW
+322856,100,Homeplus Ju,23,Lettuce,3.5 Ounce,0.87,12-Jul,2,Grocery Store,350000,NW
+322857,100,Homeplus Ju,311,Cucumber,1,0.31,12-Jul,2,Grocery Store,350000,NW
+322858,100,Homeplus Ju,312,squash,1,0.72,12-Jul,2,Grocery Store,350000,NW
+322859,100,Homeplus Ju,131,Beef - Sirloin,1.3 lbs,23.37,12-Jul,2,Grocery Store,350000,NW
+322860,100,Homeplus Ju,99,Pork,1,15.55,12-Jul,2,Grocery Store,350000,NW
+322861,100,Homeplus Ju,283,Chicken,1,9.39,12-Jul,2,Grocery Store,350000,NW
+322862,100,Homeplus Ju,134,Egg,12,1.74,12-Jul,2,Grocery Store,350000,NW
+322863,100,Homeplus Ju,135,Yellow corbina,1,1.73,12-Jul,2,Grocery Store,350000,NW
+322864,100,Homeplus Ju,265,Pollack,1,0.00,12-Jul,2,Grocery Store,350000,NW
+322865,100,Homeplus Ju,254,Mussel,1 box,1.72,12-Jul,2,Grocery Store,350000,NW
+322866,100,Homeplus Ju,266,Cod,1,5.20,12-Jul,2,Grocery Store,350000,NW
+322931,135,Lotte Kw,305,Apple-Fuji,1,3.10,12-Jul,2,Grocery Store,620000,KW
+322932,135,Lotte Kw,306,Pear,1,6.43,12-Jul,2,Grocery Store,620000,KW
+322933,135,Lotte Kw,307,Chiness cabbage,1,4.33,12-Jul,2,Grocery Store,620000,KW
+322934,135,Lotte Kw,308,Radish,1,2.59,12-Jul,2,Grocery Store,620000,KW
+322935,135,Lotte Kw,309,Onions,16 lbs,3.46,12-Jul,2,Grocery Store,620000,KW
+322936,135,Lotte Kw,310,Lettuce,3.5 Ounce,1.57,12-Jul,2,Grocery Store,620000,KW
+322937,135,Lotte Kw,311,Cucumber,1,0.64,12-Jul,2,Grocery Store,620000,KW
+322938,135,Lotte Kw,312,squash,1,0.86,12-Jul,2,Grocery Store,620000,KW
+322939,135,Lotte Kw,58,Beef - Sirloin,1.3 lbs,15.55,12-Jul,2,Grocery Store,620000,KW
+322940,135,Lotte Kw,99,Pork,1,20.24,12-Jul,2,Grocery Store,620000,KW
+322941,135,Lotte Kw,283,Chicken,1,6.43,12-Jul,2,Grocery Store,620000,KW
+322942,135,Lotte Kw,17,Egg,12,2.17,12-Jul,2,Grocery Store,620000,KW
+322943,135,Lotte Kw,136,Yellow corbina,1,8.70,12-Jul,2,Grocery Store,620000,KW
+322944,135,Lotte Kw,152,Pollack,1,2.17,12-Jul,2,Grocery Store,620000,KW
+322945,135,Lotte Kw,254,Mussel,1 box,2.17,12-Jul,2,Grocery Store,620000,KW
+322946,135,Lotte Kw,266,Cod,1,8.70,12-Jul,2,Grocery Store,620000,KW
+323043,222,Homeplus Dok,305,Apple-Fuji,1,2.57,12-Jul,2,Grocery Store,545000,KC
+323044,222,Homeplus Dok,306,Pear,1,3.04,12-Jul,2,Grocery Store,545000,KC
+323045,222,Homeplus Dok,307,Chiness cabbage,1,2.16,12-Jul,2,Grocery Store,545000,KC
+323046,222,Homeplus Dok,308,Radish,1,1.44,12-Jul,2,Grocery Store,545000,KC
+323047,222,Homeplus Dok,309,Onions,17 lbs,1.77,12-Jul,2,Grocery Store,545000,KC
+323048,222,Homeplus Dok,310,Lettuce,3.5 Ounce,0.87,12-Jul,2,Grocery Store,545000,KC
+323049,222,Homeplus Dok,311,Cucumber,1,0.33,12-Jul,2,Grocery Store,545000,KC
+323051,222,Homeplus Dok,58,Beef - Sirloin,1.3 lbs,18.68,12-Jul,2,Grocery Store,545000,KC
+323052,222,Homeplus Dok,99,Pork,1,16.59,12-Jul,2,Grocery Store,545000,KC
+323053,222,Homeplus Dok,283,Chicken,1,6.35,12-Jul,2,Grocery Store,545000,KC
+323054,222,Homeplus Dok,134,Egg,12,1.30,12-Jul,2,Grocery Store,545000,KC
+323055,222,Homeplus Dok,258,Yellow corbina,1,4.33,12-Jul,2,Grocery Store,545000,KC
+323056,222,Homeplus Dok,256,Mussel,1 box,2.60,12-Jul,2,Grocery Store,545000,KC
+323057,222,Homeplus Dok,266,Cod,1,3.30,12-Jul,2,Grocery Store,545000,KC
+323058,222,Homeplus Dok,152,Pollack,1,1.96,12-Jul,2,Grocery Store,545000,KC
+323059,115,Namoon,305,Apple-Fuji,1,2.17,12-Jul,1,Local Mart,545000,KC
+323060,115,Namoon,306,Pear,1,2.61,12-Jul,1,Local Mart,545000,KC
+323061,115,Namoon,307,Chiness cabbage,1,3.04,12-Jul,1,Local Mart,545000,KC
+323062,115,Namoon,308,Radish,1,1.04,12-Jul,1,Local Mart,545000,KC
+323063,115,Namoon,309,Onions,18 lbs,2.17,12-Jul,1,Local Mart,545000,KC
+323064,115,Namoon,310,Lettuce,3.5 Ounce,0.57,12-Jul,1,Local Mart,545000,KC
+323065,115,Namoon,311,Cucumber,1,0.26,12-Jul,1,Local Mart,545000,KC
+323067,115,Namoon,58,Beef - Sirloin,1.3 lbs,15.65,12-Jul,1,Local Mart,545000,KC
+323068,115,Namoon,99,Pork,1,11.30,12-Jul,1,Local Mart,545000,KC
+323069,115,Namoon,283,Chicken,1,5.22,12-Jul,1,Local Mart,545000,KC
+323070,115,Namoon,134,Egg,12,1.68,12-Jul,1,Local Mart,545000,KC
+323071,115,Namoon,135,Yellow corbina,1,3.91,12-Jul,1,Local Mart,545000,KC
+323072,115,Namoon,315,Pollack,1,2.17,12-Jul,1,Local Mart,545000,KC
+323073,115,Namoon,256,Mussel,1 box,1.96,12-Jul,1,Local Mart,545000,KC
+323074,115,Namoon,266,Cod,1,1.74,12-Jul,1,Local Mart,545000,KC
+323091,114,Hyundai,305,Apple-Fuji,1,2.17,12-Jul,1,Local Mart,545000,KC
+323092,114,Hyundai,306,Pear,1,2.61,12-Jul,1,Local Mart,545000,KC
+323093,114,Hyundai,307,Chiness cabbage,1,3.04,12-Jul,1,Local Mart,545000,KC
+323094,114,Hyundai,308,Radish,1,0.87,12-Jul,1,Local Mart,545000,KC
+323095,114,Hyundai,309,Onions,19 lbs,1.74,12-Jul,1,Local Mart,545000,KC
+323096,114,Hyundai,310,Lettuce,3.5 Ounce,0.54,12-Jul,1,Local Mart,545000,KC
+323097,114,Hyundai,311,Cucumber,1,0.35,12-Jul,1,Local Mart,545000,KC
+323098,114,Hyundai,58,Beef - Sirloin,1.3 lbs,14.78,12-Jul,1,Local Mart,545000,KC
+323099,114,Hyundai,99,Pork,1,10.43,12-Jul,1,Local Mart,545000,KC
+323100,114,Hyundai,283,Chicken,1,4.35,12-Jul,1,Local Mart,545000,KC
+323101,114,Hyundai,134,Egg,12,1.45,12-Jul,1,Local Mart,545000,KC
+323102,114,Hyundai,260,Yellow corbina,1,3.91,12-Jul,1,Local Mart,545000,KC
+323103,114,Hyundai,315,Pollack,1,2.17,12-Jul,1,Local Mart,545000,KC
+323104,114,Hyundai,266,Cod,1,1.30,12-Jul,1,Local Mart,545000,KC
+323105,114,Hyundai,256,Mussel,1 box,1.96,12-Jul,1,Local Mart,545000,KC
+323106,114,Hyundai,312,squash,1,0.43,12-Jul,1,Local Mart,545000,KC
+323107,200,Newcore,305,Apple-Fuji,1,3.02,12-Jul,2,Grocery Store,650000,SC
+323108,200,Newcore,306,Pear,1,3.47,12-Jul,2,Grocery Store,650000,SC
+323109,200,Newcore,307,Chiness cabbage,1,2.43,12-Jul,2,Grocery Store,650000,SC
+323110,200,Newcore,133,Radish,1,1.73,12-Jul,2,Grocery Store,650000,SC
+323111,200,Newcore,309,Onions,20 lbs,2.60,12-Jul,2,Grocery Store,650000,SC
+323112,200,Newcore,23,Lettuce,3.5 Ounce,0.86,12-Jul,2,Grocery Store,650000,SC
+323113,200,Newcore,311,Cucumber,1,0.52,12-Jul,2,Grocery Store,650000,SC
+323115,200,Newcore,58,Beef - Sirloin,1.3 lbs,17.17,12-Jul,2,Grocery Store,650000,SC
+323116,200,Newcore,202,Pork,1,10.90,12-Jul,2,Grocery Store,650000,SC
+323117,200,Newcore,283,Chicken,1,6.08,12-Jul,2,Grocery Store,650000,SC
+323118,200,Newcore,17,Egg,12,2.08,12-Jul,2,Grocery Store,650000,SC
+323119,200,Newcore,144,Yellow corbina,1,6.52,12-Jul,2,Grocery Store,650000,SC
+323120,200,Newcore,152,Pollack,1,2.83,12-Jul,2,Grocery Store,650000,SC
+323121,200,Newcore,254,Mussel,1 box,1.73,12-Jul,2,Grocery Store,650000,SC
+323122,200,Newcore,266,Cod,1,3.04,12-Jul,2,Grocery Store,650000,SC
