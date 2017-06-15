@@ -1,43 +1,29 @@
-library(class)
+library("class")
+
+#setwd("C:\Users\dubey\Documents\GitHub\Texas-Tech-University\College Assingements\Data and Text Mining\Lecture 2 KNN")
+inclass <- read.csv("~/GitHub/Texas-Tech-University/College Assingements/Data and Text Mining/Lecture 2 KNN/Lc02Ex01.csv")
 
 
-#loading the Data
-data <- read.csv("~/GitHub/Texas-Tech-University/College Assingements/Data and Text Mining/Lecture 2 KNN/Lc02Ex01.csv")
+normalize = function(x){return (x-min(x)/max(x)-min(x))}
+inclass$ID <- NULL
 
-#unwanted column is set to null 
-data$ID <- NULL
-
-
-# defining the function 
-myfunction <- function(x){
-  a <- min(x)
-  b <- max(x)
-  r <- x - b / b - a 
-  return(r)
-}
+inclass_x <- data.frame(lapply(inclass[2:31],normalize))
 
 
+set.seed(2)
 
-#Applying and normalizing the data through the function 
-m <- data.frame(lapply(data[3:31], myfunction))
+idx = sample(1:nrow(inclass),0.7*nrow(inclass_x),replace = FALSE)
 
-
-# diving the Data into 70/ 30 ratio
-indexes = sample(1:nrow(data), size=0.3*nrow(data))
-test = data[indexes,]
-train = data[-indexes,]
-dim(train)
-dim(test)
+train = inclass_x[idx,]
+test = inclass_x[-idx,]
 
 
-summary(train)
-
-test_y = data[indexes,1]
-train_y = data[-indexes,1]
+trainy= inclass[idx,1]
+testy=inclass[-idx,1]
 
 
-knn.1 <-  knn(train, test, train_y, k=1)
 
+out = knn(train,test,trainy,k=4)
 
 
 

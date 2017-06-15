@@ -1,0 +1,15 @@
+Temperature,Humidity ,Windy,Class
+Hot,High,F,N
+Hot,High,T,N
+Hot,High,F,P
+Mild,High,F,P
+Cold,Normal,F,P
+Cold,Normal,T,N
+Cold,Normal,T,P
+Mild,High,F,N
+Cold,Normal,F,N
+Mild,Normal,F,P
+Mild,Normal,T,P
+Mild,High,T,P
+Hot,Normal,F,N
+Mild,High,T,P
