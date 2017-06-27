@@ -1,0 +1,1 @@
+ Application does not work.  After paying for the service the application goes into a redirect loop.  Saying Subscribe.  But then once I hit subscribe : "you already have a subscription" then back to the begining " you need to subscribe"

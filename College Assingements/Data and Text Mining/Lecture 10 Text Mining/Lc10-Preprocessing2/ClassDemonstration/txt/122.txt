@@ -1,0 +1,1 @@
+Constantly opening login screen This app is constantly opening itself and going to the login screen, even when I am doing other stuff with my phone. It is quite annoying.

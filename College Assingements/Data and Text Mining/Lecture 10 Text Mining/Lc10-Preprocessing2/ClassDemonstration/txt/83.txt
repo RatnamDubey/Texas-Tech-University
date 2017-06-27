@@ -1,0 +1,1 @@
+ In-app Billing/Subscription issues. The App doesn't recognize my active Google Play Store subscription.

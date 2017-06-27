@@ -1,0 +1,1 @@
+Asking for 'Renew Your Subscription' and username and password endlessly Asking for 'Renew Your Subscription' and username and password endlessly whenever opening the app. After providing the username and password it will take you to the same page for renewing the subscription. It is happening in an endless loop. Can't watch a single video.

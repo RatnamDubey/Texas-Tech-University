@@ -1,0 +1,1 @@
+not working can't get past a successful login. despite linking my account to a payment option, I am in an infinite loop: it asks me to renew my subscription and then I'm asked to login again. this repeats forever. I tried restarted, new account. no dice.

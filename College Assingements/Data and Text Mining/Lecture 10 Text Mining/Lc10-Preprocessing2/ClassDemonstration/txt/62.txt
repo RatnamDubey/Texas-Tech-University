@@ -1,0 +1,1 @@
+ Signed up for free trial, app failed to create account even though subscription was successfully created. Could not reset password.

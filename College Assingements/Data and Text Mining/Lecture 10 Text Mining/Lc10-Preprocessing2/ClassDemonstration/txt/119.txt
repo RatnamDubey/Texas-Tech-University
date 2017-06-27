@@ -1,0 +1,1 @@
+Some issues Slow to move back by "-10s" using the button in the app.    Every time one switches to a different t app while playing a movie, the app thinks it's not using cc and has to be reminded.      Needs many obvious bug fixes and improvements.  Have lollipop 5.1 on z3v.    Factory reset during upgrade.

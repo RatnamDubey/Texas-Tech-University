@@ -1,0 +1,1 @@
+Subscription issues Subscription is active in Google play but app is caught in a loop asking for renewal, major bummer

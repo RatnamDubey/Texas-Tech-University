@@ -1,0 +1,1 @@
+ This app has clunky Chromecast support. The app expects me to play a video then stop browsing the rest of the selection. Take a look at how Netflix and Hulu handle the UX of casting to a Chromecast device. I would recommend using the vertical drawer/tray. Its so awkward to pause and play the show, only reachable from the notification drawer.
