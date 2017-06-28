@@ -33,7 +33,7 @@ corpus.tbm.weight <- weightTfIdf(corpus.tbm , normalize = TRUE)
 write.csv(as.matrix(corpus.tbm.weight) , file=file.path("tdm1.csv"))
 
 #Specify the Dimentions
-mydimentions =100 
+mydimentions =5 
 
 #LSA
 corpus.tbm.weight.lso <- lsa(corpus.tbm.weight, dim=mydimentions)
@@ -66,8 +66,13 @@ plot(x,y , xlab ="number of factors",
             )
 
 
+#Term LOading Rotation 
 
+termloading.rotation <-  varimax(as.matrix(termloading),
+                                normalize = TRUE)
+summary(termloading.rotation)
 
+write.csv(termloading.rotation$loadings , file=file.path("tdm4.csv"))
 
 
 
